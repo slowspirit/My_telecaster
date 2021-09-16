@@ -5,3 +5,7 @@
 GULP<br>
 SCSS<br>
 BEM<br>
+
+HTML CSS jQuery<br>
+fullpage.js<br>
+SLICK-slider
