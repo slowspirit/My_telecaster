@@ -1,6 +1,8 @@
 # My_telecaster
-## Product's presentation adaptive landing page
-### My own training project
+
+Адаптивная верстка лендинга-презентации продукта.
+
+https://slowspirit.github.io/My_telecaster/
 
 GULP<br>
 SCSS<br>
