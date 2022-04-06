@@ -1,8 +1,8 @@
 # My_telecaster
 
-Адаптивная верстка лендинга-презентации продукта.
+## Адаптивная верстка лендинга-презентации продукта.
 
-https://slowspirit.github.io/My_telecaster/
+### https://slowspirit.github.io/My_telecaster/
 
 GULP<br>
 SCSS<br>
